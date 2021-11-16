@@ -3,6 +3,7 @@
 I'm Konstantin
 
 👨🏻‍💻 Creating stuff with Laravel & Symfony
+
 🔭 Working at Innoscripta GmbH, Munich, Germany
 
 <!--
