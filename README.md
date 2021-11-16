@@ -1,6 +1,4 @@
-### Hi there 👊
-
-I'm Konstantin
+### Hi there, I'm Konstantin 👊
 
 👨🏻‍💻 Creating stuff with Laravel & Symfony
 
