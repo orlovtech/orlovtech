@@ -1,5 +1,4 @@
 # Konstantin Orlov
-## backend developer
 <p>
 PHP7+ (OOP, SOLID, Clean Code, Design Patterns)<br>
 Laravel | Symfony<br>
