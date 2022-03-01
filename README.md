@@ -6,7 +6,7 @@ MySQL | MariaDB | PostgreSQL | MongoDB | Redis<br>
 Rest API | SOAP<br>
 PHPUnit | Selenium | TDD<br>
 MSA | DDD<br>
-AWS | Docker | RabbitMQ | Sphinx | Git Flow | Composer (+creating packages) | Scrum<br>
+AWS | Docker | RabbitMQ | Sphinx | Git Flow | Composer | Scrum<br>
 Python (Django, Flask)
 </p>
 
