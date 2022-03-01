@@ -10,4 +10,7 @@ AWS | Docker | RabbitMQ | Sphinx | Git Flow | Composer (+creating packages) | Sc
 Python (Django, Flask)
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/orlovkn/) | [Instagram](https://www.instagram.com/orlovkn/) | [CV](https://orlovkn.com/konstantin-orlov-cv.pdf) (.pdf)
+[LinkedIn](https://www.linkedin.com/in/orlovkn/) | 
+[Telegram](https://t.me/orlovkn/) | 
+[Instagram](https://www.instagram.com/orlovkn/) | 
+[CV](https://orlovkn.com/konstantin-orlov-cv.pdf) (.pdf)
