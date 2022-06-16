@@ -1,13 +1,13 @@
 # Konstantin Orlov
 <p>
-PHP7+ (OOP, SOLID, Clean Code, Design Patterns)<br>
-Laravel | Symfony<br>
-MySQL | MariaDB | PostgreSQL | MongoDB | Redis<br>
-Rest API | SOAP<br>
-PHPUnit | Selenium | TDD<br>
-MSA | DDD<br>
-AWS | Docker | RabbitMQ | Sphinx | Git Flow | Composer | Scrum<br>
-Python (Django, Flask)
+My current stack is:<br>
+– PHP 7.4|8+ (OOP, SOLID, Clean Code, Design Patterns)<br>
+– Laravel | Symfony<br>
+– Microservice Architecture | DDD<br>
+– Rest API | RPC | SOAP | WebSockets<br>
+– Testing with PHPUnit | Pest | Selenium | TDD Approach<br>
+– MySQL | MariaDB | PostgreSQL | MongoDB | Redis<br>
+– Using: Docker | RabbitMQ | Git Flow | Scrum | AWS<br>
 </p>
 
 [LinkedIn](https://www.linkedin.com/in/orlovkn/) | 
