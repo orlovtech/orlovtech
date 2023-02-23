@@ -10,7 +10,7 @@ My current stack is:<br>
 – Using: Docker | RabbitMQ | Git Flow | Scrum | AWS<br>
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/orlovkn/) | 
-[Telegram](https://t.me/orlovkn/) | 
+[LinkedIn](https://www.linkedin.com/in/orlovtech/) | 
+[Telegram](https://t.me/orlov_dev/) | 
 [Instagram](https://www.instagram.com/orlov_dev/) | 
 [CV](https://github.com/orlovkn/orlovkn.github.com/blob/master/konstantin-orlov-cv.pdf) (.pdf)
