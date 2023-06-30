@@ -12,5 +12,4 @@ My current stack is:<br>
 
 [LinkedIn](https://www.linkedin.com/in/orlovtech/) | 
 [Telegram](https://t.me/orlov_dev/) | 
-[Instagram](https://www.instagram.com/orlov_dev/) | 
-[CV](https://github.com/orlovkn/orlovkn.github.com/blob/master/konstantin-orlov-cv.pdf) (.pdf)
+[Instagram](https://www.instagram.com/orlov_dev/)
